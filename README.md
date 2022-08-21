@@ -2,6 +2,6 @@
 
 Dataset: ABC version of Nottingham Music Database. (http://abc.sourceforge.net/NMD/)
 
-Model : An 3 Layered LSTM architecture, with dropouts and sequential learninig.
+Model : A 3 Layered LSTM architecture, with dropouts and sequential learninig.
 
 Libraries : Numpy, Pandas, Tensorflow 2.X and Keras.
